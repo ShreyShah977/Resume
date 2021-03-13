@@ -1,0 +1,1 @@
+-wto "f5204d893f80430a8e9fcee9b49f6448" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "FPAdder_TB_behav" "xil_defaultlib.FPAdder_TB" -log "elaborate.log" 

@@ -1,0 +1,113 @@
+/*
+
+Xilinx Vivado v2020.2 (64-bit) [Major: 2020, Minor: 2]
+SW Build: 3064766 on Wed Nov 18 09:12:45 MST 2020
+IP Build: 3064653 on Wed Nov 18 14:17:31 MST 2020
+
+Process ID (PID): 21316
+License: Customer
+Mode: GUI Mode
+
+Current time: 	Sat Mar 06 23:45:35 MST 2021
+Time zone: 	Mountain Standard Time (America/Denver)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 12
+
+Screen size: 3840x2160
+Screen resolution (DPI): 150
+Available screens: 1
+Default font: family=Segoe UI,name=Segoe UI,style=plain,size=18
+Scale size: 27
+
+Java version: 	11.0.2 64-bit
+Java home: 	D:/Apps/Xilinx/Vivado/2020.2/tps/win64/jre11.0.2
+Java executable location: 	D:/Apps/Xilinx/Vivado/2020.2/tps/win64/jre11.0.2/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	shrey
+User home directory: C:/Users/shrey
+User working directory: D:/Apps/1. ALL_Labs/ENEL489Labs/Lab2/Lab2_Task3
+User country: 	CA
+User language: 	en
+User locale: 	en_CA
+
+RDI_BASEROOT: D:/Apps/Xilinx/Vivado
+HDI_APPROOT: D:/Apps/Xilinx/Vivado/2020.2
+RDI_DATADIR: D:/Apps/Xilinx/Vivado/2020.2/data
+RDI_BINDIR: D:/Apps/Xilinx/Vivado/2020.2/bin
+
+Vivado preferences file location: C:/Users/shrey/AppData/Roaming/Xilinx/Vivado/2020.2/vivado.xml
+Vivado preferences directory: C:/Users/shrey/AppData/Roaming/Xilinx/Vivado/2020.2/
+Vivado layouts directory: C:/Users/shrey/AppData/Roaming/Xilinx/Vivado/2020.2/data/layouts
+PlanAhead jar file location: 	D:/Apps/Xilinx/Vivado/2020.2/lib/classes/planAhead.jar
+Vivado log file location: 	D:/Apps/1. ALL_Labs/ENEL489Labs/Lab2/Lab2_Task3/vivado.log
+Vivado journal file location: 	D:/Apps/1. ALL_Labs/ENEL489Labs/Lab2/Lab2_Task3/vivado.jou
+Engine tmp dir: 	D:/Apps/1. ALL_Labs/ENEL489Labs/Lab2/Lab2_Task3/.Xil/Vivado-21316-HomePC-SS
+
+Xilinx Environment Variables
+----------------------------
+XILINX: D:/Apps/Xilinx/Vivado/2020.2/ids_lite/ISE
+XILINX_DSP: D:/Apps/Xilinx/Vivado/2020.2/ids_lite/ISE
+XILINX_HLS: D:/Apps/Xilinx/Vitis_HLS/2020.2
+XILINX_PLANAHEAD: D:/Apps/Xilinx/Vivado/2020.2
+XILINX_VIVADO: D:/Apps/Xilinx/Vivado/2020.2
+XILINX_VIVADO_HLS: D:/Apps/Xilinx/Vivado/2020.2
+
+
+GUI allocated memory:	220 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,070 MB
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// TclEventType: PROJECT_OPEN_DIALOG
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// bz (cr):  Open Project : addNotify
+// Opening Vivado Project: D:\Apps\1. ALL_Labs\ENEL489Labs\Lab2\Lab2_Task3\Lab2_Task3.xpr. Version: Vivado v2020.2 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project {D:/Apps/1. ALL_Labs/ENEL489Labs/Lab2/Lab2_Task3/Lab2_Task3.xpr} 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 144 MB (+148479kb) [00:00:06]
+// [Engine Memory]: 1,070 MB (+970029kb) [00:00:06]
+// WARNING: HEventQueue.dispatchEvent() is taking  1921 ms.
+// Tcl Message: open_project {D:/Apps/1. ALL_Labs/ENEL489Labs/Lab2/Lab2_Task3/Lab2_Task3.xpr} 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'D:/Apps/ALL_Labs/ENEL489Labs/Lab2/Lab2_Task3' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Apps/Xilinx/Vivado/2020.2/data/ip'. 
+selectButton(RDIResource.ProgressDialog_CANCEL, "Cancel"); // a
+// Project name: Lab2_Task3; location: D:/Apps/1. ALL_Labs/ENEL489Labs/Lab2/Lab2_Task3; part: xc7z020clg484-1
+dismissDialog("Open Project"); // bz
+// HMemoryUtils.trashcanNow. Engine heap size: 1,070 MB. GUI used memory: 85 MB. Current time: 3/6/21, 11:45:35 PM MST
+// Tcl Command: 'rdi::info_commands {device::*}'
+// Tcl Command: 'rdi::info_commands {debug::*}'
+// Tcl Command: 'rdi::info_commands {*}'
+closeMainWindow("Lab2_Task3 - [D:/Apps/1. ALL_Labs/ENEL489Labs/Lab2/Lab2_Task3/Lab2_Task3.xpr] - Vivado 2020.2"); // cr
+// HOptionPane Warning: 'A background task is running. Please wait until it completes to exit Vivado. If you choose to abort background task and exit immediately, you will lose all unsaved changes to project. (Background Task)'
+// Tcl Message: update_compile_order -fileset sources_1 
+// [GUI Memory]: 156 MB (+4727kb) [00:00:11]

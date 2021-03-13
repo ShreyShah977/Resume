@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../Lab2_Task2_IpCoreMult.gen/sources_1/ip/multi_core/sim/multi_core.vhd" \
+
+nosort

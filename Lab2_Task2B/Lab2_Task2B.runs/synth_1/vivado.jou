@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Feb 22 00:54:28 2021
+# Process ID: 3752
+# Current directory: D:/Apps/ALL_Labs/ENEL489Labs/Lab2/Lab2_Task2B/Lab2_Task2B.runs/synth_1
+# Command line: vivado.exe -log IPCore_Adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source IPCore_Adder.tcl
+# Log file: D:/Apps/ALL_Labs/ENEL489Labs/Lab2/Lab2_Task2B/Lab2_Task2B.runs/synth_1/IPCore_Adder.vds
+# Journal file: D:/Apps/ALL_Labs/ENEL489Labs/Lab2/Lab2_Task2B/Lab2_Task2B.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source IPCore_Adder.tcl -notrace

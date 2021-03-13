@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Mar  6 23:45:24 2021
+# Process ID: 21316
+# Current directory: D:/Apps/1. ALL_Labs/ENEL489Labs/Lab2/Lab2_Task3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20956 D:\Apps\1. ALL_Labs\ENEL489Labs\Lab2\Lab2_Task3\Lab2_Task3.xpr
+# Log file: D:/Apps/1. ALL_Labs/ENEL489Labs/Lab2/Lab2_Task3/vivado.log
+# Journal file: D:/Apps/1. ALL_Labs/ENEL489Labs/Lab2/Lab2_Task3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Apps/1. ALL_Labs/ENEL489Labs/Lab2/Lab2_Task3/Lab2_Task3.xpr}
+update_compile_order -fileset sources_1

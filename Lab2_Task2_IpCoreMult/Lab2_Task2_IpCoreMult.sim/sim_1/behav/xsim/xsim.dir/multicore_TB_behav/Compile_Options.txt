@@ -1,0 +1,1 @@
+-wto "e9458e88319a4bf682d662ad5ad3f896" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "xbip_utils_v3_0_10" -L "xbip_pipe_v3_0_6" -L "xbip_bram18k_v3_0_6" -L "mult_gen_v12_0_16" -L "secureip" -L "xpm" --snapshot "multicore_TB_behav" "xil_defaultlib.multicore_TB" -log "elaborate.log" 

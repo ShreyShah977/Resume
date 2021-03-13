@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Feb 22 10:02:38 2021
+# Process ID: 16152
+# Current directory: D:/Apps/ALL_Labs/ENEL489Labs/Lab2/Lab2_Task2B/Lab2_Task2B.runs/c_addsub_0_synth_1
+# Command line: vivado.exe -log c_addsub_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source c_addsub_0.tcl
+# Log file: D:/Apps/ALL_Labs/ENEL489Labs/Lab2/Lab2_Task2B/Lab2_Task2B.runs/c_addsub_0_synth_1/c_addsub_0.vds
+# Journal file: D:/Apps/ALL_Labs/ENEL489Labs/Lab2/Lab2_Task2B/Lab2_Task2B.runs/c_addsub_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source c_addsub_0.tcl -notrace

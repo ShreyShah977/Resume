@@ -1,0 +1,7 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/Apps/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto c17d294ff0fc40f1b140a910be9dc4dd --incr --debug typical --relax --mt 2 -L xil_defaultlib -L xbip_utils_v3_0_10 -L c_reg_fd_v12_0_6 -L xbip_dsp48_wrapper_v3_0_4 -L xbip_pipe_v3_0_6 -L xbip_dsp48_addsub_v3_0_6 -L xbip_addsub_v3_0_6 -L c_addsub_v12_0_14 -L secureip -L xpm --snapshot adderCore_TB_behav xil_defaultlib.adderCore_TB -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-718] formal port <CLK> does not exist in entity <c_addsub_0>.  Please compare the definition of block <c_addsub_0> to its component declaration and its instantion to detect the mismatch. [D:/Apps/1. ALL_Labs/ENEL489Labs/Lab2/Lab2_Task2B/Lab2_Task2B.srcs/sources_1/new/IPCore_Adder.vhd:43]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit addercore_tb in library work failed.

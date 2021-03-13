@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Lab2_Task2_IpCoreMult.gen/sources_1/ip/multi_core/sim/multi_core.vhd" \
+"../../../../Lab2_Task2_IpCoreMult.srcs/sources_1/new/IPCoreMult.vhd" \
+"../../../../Lab2_Task2_IpCoreMult.srcs/sim_1/new/multicore_TB.vhd" \
+
+# Do not sort compile order
+nosort

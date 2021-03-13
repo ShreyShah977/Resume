@@ -1,0 +1,12 @@
+
+{ 
+    crc :  1540171319005198654  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto e9458e88319a4bf682d662ad5ad3f896 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L xbip_utils_v3_0_10 -L xbip_pipe_v3_0_6 -L xbip_bram18k_v3_0_6 -L mult_gen_v12_0_16 -L secureip -L xpm --snapshot multicore_TB_behav xil_defaultlib.multicore_TB" , 
+    buildDate : "Nov 18 2020" , 
+    buildTime : "09:47:47" , 
+    linkCmd : "D:\\Apps\\Xilinx\\Vivado\\2020.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/multicore_TB_behav/xsimk.exe\"   \"xsim.dir/multicore_TB_behav/obj/xsim_0.win64.obj\" \"xsim.dir/multicore_TB_behav/obj/xsim_1.win64.obj\" -L\"D:\\Apps\\Xilinx\\Vivado\\2020.2\\lib\\win64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
